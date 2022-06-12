@@ -285,9 +285,9 @@ html{
     cursor: pointer;
     background-color:#17435f;
     border-radius: 2px;
- 
     font-size: 20px;
     color: #ffffff;
     text-align: center;
+    line-height: 35px;
  }
  
