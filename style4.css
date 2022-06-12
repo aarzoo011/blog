@@ -121,9 +121,6 @@ html{
    align-items: center;
 }
 
-.about .image{
-   flex:1 1 41rem;
-}
 
 .about .image img{
    width: 100%;
