@@ -17,9 +17,10 @@ html{
  }
 
 .btn{
+   display: inline-block;
    background:#073e61;
    color:#ddd;
-   font-size: 5rem;
+   font-size: 2rem;
    cursor: pointer;/*Mouse over the words to change the mouse cursor.*/
    padding:1rem 3rem;
 }
