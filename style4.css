@@ -16,10 +16,12 @@ html{
     background-color:dodgerblue;
  }
 
-.btn{
+ .btn{
+   margin-top: 1rem;
+   display: inline-block;
    background:#073e61;
    color:#ddd;
-   font-size: 3rem;
+   font-size: 2rem;
    cursor: pointer;/*Mouse over the words to change the mouse cursor.*/
    padding:1rem 3rem;
 }
