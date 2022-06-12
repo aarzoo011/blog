@@ -69,18 +69,6 @@ html{
   float: right;
 }
 
-@media screen and (max-width: 500px) {
-  .header a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-  
-  .header-right {
-    float: none;
-  }
-}
-
 .home{
    padding:0;
    background:rgba(147, 213, 235, 0.258);
