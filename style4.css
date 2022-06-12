@@ -19,7 +19,7 @@ html{
 .btn{
    background:#073e61;
    color:#ddd;
-   font-size: 1rem;
+   font-size: 3rem;
    cursor: pointer;/*Mouse over the words to change the mouse cursor.*/
    padding:1rem 3rem;
 }
