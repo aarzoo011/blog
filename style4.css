@@ -1,5 +1,5 @@
 html{
-    font-size: 62.5%;
+    font-size: 70%;
     overflow-x: hidden;
     scroll-behavior: smooth;
  }
@@ -16,22 +16,8 @@ html{
     background-color:dodgerblue;
  }
 
- section{
-    padding:5rem;
- }
-
- .btn{
-   margin-top: 1rem;
-   display: inline-block;
-   background:#073e61;
-   color:#ddd;
-   font-size: 2rem;
+.btn{
    cursor: pointer;/*Mouse over the words to change the mouse cursor.*/
-   padding:1rem 3rem;
-}
-
-.btn:hover{
-   letter-spacing: .1rem;
 }
 
 .header {
